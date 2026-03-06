@@ -1,4 +1,11 @@
 {
+  "whatsapp-123123123": {
+    "name": "WHATSAPP 3123",
+    "platform": "whatsapp",
+    "phoneNumber": "123123123",
+    "status": "running",
+    "createdAt": "2026-03-06T03:25:39.000Z"
+  },
   "instagram-15820551939": {
     "name": "INSTAGRAM 1939",
     "platform": "instagram",
