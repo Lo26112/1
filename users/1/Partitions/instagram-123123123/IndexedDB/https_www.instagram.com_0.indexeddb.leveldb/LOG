@@ -1,0 +1,6 @@
+2026/03/09-11:33:12.421 2448 Creating DB C:\Users\Administrator\AppData\Roaming\crm-multi-account\Partitions\instagram-123123123\IndexedDB\https_www.instagram.com_0.indexeddb.leveldb since it was missing.
+2026/03/09-11:33:12.439 2448 Reusing MANIFEST C:\Users\Administrator\AppData\Roaming\crm-multi-account\Partitions\instagram-123123123\IndexedDB\https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/09-11:33:16.701 31dc Level-0 table #5: started
+2026/03/09-11:33:16.716 31dc Level-0 table #5: 17680 bytes OK
+2026/03/09-11:33:16.728 31dc Delete type=0 #3
+2026/03/09-11:33:16.729 31dc Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
