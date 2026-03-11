@@ -1,0 +1,6 @@
+2026/03/11-10:23:02.753 3458 Reusing MANIFEST C:\Users\Administrator\AppData\Roaming\crm-multi-account\Partitions\whatsapp-13549946888\Local Storage\leveldb/MANIFEST-000001
+2026/03/11-10:23:02.754 3458 Recovering log #7
+2026/03/11-10:23:02.755 3458 Reusing old log C:\Users\Administrator\AppData\Roaming\crm-multi-account\Partitions\whatsapp-13549946888\Local Storage\leveldb/000007.log 
+2026/03/11-12:23:24.444 e58 Level-0 table #11: started
+2026/03/11-12:23:24.451 e58 Level-0 table #11: 14065 bytes OK
+2026/03/11-12:23:24.457 e58 Delete type=0 #7
