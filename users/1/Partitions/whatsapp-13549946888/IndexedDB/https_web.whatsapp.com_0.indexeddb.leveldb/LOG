@@ -1,0 +1,13 @@
+2026/03/11-10:23:03.270 3458 Reusing MANIFEST C:\Users\Administrator\AppData\Roaming\crm-multi-account\Partitions\whatsapp-13549946888\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/11-10:23:03.271 3458 Recovering log #186
+2026/03/11-10:23:03.293 3458 Reusing old log C:\Users\Administrator\AppData\Roaming\crm-multi-account\Partitions\whatsapp-13549946888\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000186.log 
+2026/03/11-10:23:07.489 e58 Level-0 table #192: started
+2026/03/11-10:23:07.509 e58 Level-0 table #192: 394492 bytes OK
+2026/03/11-10:23:07.513 e58 Delete type=0 #186
+2026/03/11-10:23:07.514 e58 Manual compaction at level-0 from '\x00I\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00J\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/03/11-10:23:07.585 e58 Compacting 1@1 + 1@2 files
+2026/03/11-10:23:07.630 e58 Generated table #193@1: 20162 keys, 769592 bytes
+2026/03/11-10:23:07.630 e58 Compacted 1@1 + 1@2 files => 769592 bytes
+2026/03/11-10:23:07.636 e58 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/11-10:23:07.637 e58 Delete type=2 #189
+2026/03/11-10:23:07.637 e58 Delete type=2 #192
